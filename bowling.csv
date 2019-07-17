@@ -1,0 +1,97 @@
+Player,Country,Mat,O,M,R,W,4w,Best,Bowling_avg,Bowling_Sr,E/R
+"Mathews, A D",Sri Lanka,7,2,0,6,1,0,43471,6,12,3
+"Shankar, V",India,3,5.2,0,22,2,0,43518,11,16,4.13
+Mohammed Shami,India,4,35.1,2,193,14,3,25324,13.79,15.07,5.49
+Shaheen Shah Afridi,Pakistan,5,47.1,3,234,16,2,12936,14.63,17.69,4.96
+"Starc, M A",Australia,10,92.2,5,502,27,4,43611,18.59,20.52,5.44
+"Pretorius, D",South Africa,3,23,4,94,5,0,43549,18.8,27.6,4.09
+"Neesham, J D S",New Zealand,10,54.3,2,292,15,1,43616,19.47,21.8,5.36
+"Ferguson, L H",New Zealand,9,83.4,3,409,21,1,13606,19.48,23.9,4.89
+"Finch, A J",Australia,10,3,0,20,1,0,43478,20,18,6.67
+"Roach, K A J",West Indies,4,33,4,121,6,0,13210,20.17,33,3.67
+"Russell, A D",West Indies,4,19,1,101,5,0,43500,20.2,22.8,5.32
+"Bumrah, J J",India,9,84,9,371,18,1,20180,20.61,28,4.42
+Mohammad Amir,Pakistan,8,73,5,358,17,1,43615,21.06,25.76,4.9
+"Richardson, K W",Australia,2,17.4,1,109,5,0,17227,21.8,21.2,6.17
+Soumya Sarkar,Bangladesh,8,14,0,91,4,0,21245,22.75,21,6.5
+"Archer, J C",England,11,100.5,8,461,20,0,43551,23.05,30.25,4.57
+Mustafizur Rahman,Bangladesh,8,72.1,2,484,20,2,21671,24.2,21.65,6.71
+"Plunkett, L E",England,7,56,0,272,11,0,15401,24.73,30.55,4.86
+"Behrendorff, J P",Australia,5,44.1,2,227,9,1,16193,25.22,29.44,5.14
+"Wood, M A",England,10,89.4,2,463,18,0,43542,25.72,29.89,5.16
+"Morris, C H",South Africa,8,63.4,5,341,13,0,43537,26.23,29.38,5.36
+"Kumar, B",India,6,51.4,1,269,10,0,15766,26.9,31,5.21
+"Root, J E",England,11,10,0,55,2,0,43523,27.5,30,5.5
+"Woakes, C R",England,11,85,6,446,16,0,43544,27.88,31.88,5.25
+"Henry, M J",New Zealand,9,80.2,5,392,14,1,17258,28,34.43,4.88
+"Boult, T A",New Zealand,10,99,4,479,17,2,43585,28.18,34.94,4.84
+"Malinga, S L",Sri Lanka,7,61.4,4,373,13,1,15797,28.69,28.46,6.05
+Aftab Alam,Afghanistan,3,20.1,2,115,4,0,16497,28.75,30.25,5.7
+"Ngidi, L",South Africa,4,33,1,211,7,0,23437,30.14,28.29,6.39
+"Cummins, P J",Australia,10,86.1,6,427,14,0,12114,30.5,36.93,4.96
+"Phehlukwayo, A L",South Africa,9,61.5,2,336,11,0,43514,30.55,33.73,5.43
+"Pradeep, N",Sri Lanka,3,29,2,157,5,1,11414,31.4,34.8,5.41
+"Smith, S P D",Australia,10,4,0,32,1,0,43471,32,24,8
+"Williamson, K S",New Zealand,10,15,0,64,2,0,43490,32,45,4.27
+Mohammad Saifuddin,Bangladesh,7,58,2,417,13,0,26359,32.08,26.77,7.19
+"Cottrell, S S",West Indies,9,67,2,392,12,1,20546,32.67,33.5,5.85
+Mohammad Nabi,Afghanistan,9,72.4,0,335,10,1,43585,33.5,43.6,4.61
+Imran Tahir,South Africa,9,76,0,374,11,1,43584,34,41.45,4.92
+"Stoinis, M P",Australia,8,40,1,244,7,0,13547,34.86,34.29,6.1
+"Stokes, B A",England,11,50.5,1,246,7,0,43547,35.14,43.57,4.84
+"de Grandhomme, C",New Zealand,10,51,4,212,6,0,43479,35.33,51,4.16
+Shadab Khan,Pakistan,7,58,1,320,9,0,18323,35.56,38.67,5.52
+"Brathwaite, C R",West Indies,8,44,0,323,9,1,23102,35.89,29.33,7.34
+Dawlat Zadran,Afghanistan,5,39,1,288,8,0,31107,36,29.25,7.38
+"Rabada, K",South Africa,9,78,4,397,11,0,20515,36.09,42.55,5.09
+Shakib Al Hasan,Bangladesh,8,74,1,399,11,1,43614,36.27,40.36,5.39
+Wahab Riaz,Pakistan,8,66.4,1,400,11,0,16862,36.36,36.36,6
+"Chahal, Y S",India,8,74,0,442,12,1,18719,36.83,37,5.97
+Mujeeb Ur Rahman,Afghanistan,7,57.5,1,259,7,0,14305,37,49.57,4.48
+"Jadeja, R A",India,2,20,0,74,2,0,12420,37,60,3.7
+"Gayle, C H",West Indies,9,15,0,80,2,0,43473,40,45,5.33
+"Thomas, O R",West Indies,9,58.1,1,380,9,1,43582,42.22,38.78,6.53
+"Holder, J O",West Indies,9,61.1,4,343,8,0,15401,42.88,45.88,5.61
+"Pandya, H H",India,9,79,1,447,10,0,21976,44.7,47.4,5.66
+"de Silva, D M",Sri Lanka,7,39,0,226,5,0,11749,45.2,46.8,5.79
+"Ali, M M",England,5,43,0,230,5,0,18323,46,51.6,5.35
+Gulbadin Naib,Afghanistan,9,65.4,2,420,9,0,24898,46.67,43.78,6.4
+Shoaib Malik,Pakistan,3,8,0,47,1,0,43475,47,48,5.88
+"Zampa, A",Australia,4,33,0,236,5,0,21976,47.2,39.6,7.15
+"Rashid, A U",England,11,92,0,526,11,0,19784,47.82,50.18,5.72
+"Vandersay, J D F",Sri Lanka,1,7,0,50,1,0,18264,50,42,7.14
+"Udana, I",Sri Lanka,7,53.3,0,303,6,0,15008,50.5,53.5,5.66
+"Santner, M J",New Zealand,10,67,4,322,6,0,12451,53.67,67,4.81
+Sayed Shirzad,Afghanistan,1,8,0,56,1,0,20455,56,48,7
+Kuldeep Yadav,India,7,67,2,337,6,0,11720,56.17,67,5.03
+Mehidy Hasan Miraz,Bangladesh,7,67,0,341,6,0,17199,56.83,67,5.09
+"Lyon, N M",Australia,4,34,0,181,3,0,19391,60.33,68,5.32
+"Duminy, J-P",South Africa,5,9,0,61,1,0,43480,61,54,6.78
+"Rajitha, C A K",Sri Lanka,2,18,0,123,2,0,17168,61.5,54,6.83
+Rahmat Shah,Afghanistan,9,13,0,69,1,0,43487,69,78,5.31
+Rashid Khan,Afghanistan,9,71.5,1,416,6,0,43513,69.33,71.83,5.79
+"Coulter-Nile, N M",Australia,5,47,2,280,4,0,21217,70,70.5,5.96
+"Southee, T G",New Zealand,1,9,0,70,1,0,25569,70,54,7.78
+Mosaddeck Hossain,Bangladesh,7,36,0,215,3,0,12086,71.67,72,5.97
+"Markram, A K",South Africa,8,12,0,76,1,0,43487,76,72,6.33
+"Gabriel, S T",West Indies,3,20.3,0,173,2,0,17930,86.5,61.5,8.44
+Imad Wasim,Pakistan,6,39,0,188,2,0,17564,94,117,4.82
+Mohammad Hafeez,Pakistan,8,32,1,189,2,0,15707,94.5,96,5.91
+Hamid Hassan,Afghanistan,5,26,3,122,1,0,19360,122,156,4.69
+"Allen, F A",West Indies,3,21,0,122,1,0,16072,122,126,5.81
+Hasan Ali,Pakistan,4,33,0,256,2,0,24473,128,99,7.76
+Rubel Hossain,Bangladesh,2,17,0,131,1,0,17533,131,102,7.71
+"Perera, N L T C",Sri Lanka,6,40.2,1,207,1,0,43484,207,242,5.13
+Mashrafe Mortaza,Bangladesh,8,56,1,361,1,0,24838,361,336,6.45
+Samiullah Shinwari,Afghanistan,3,8,0,32,0,0,0/0,,,4
+"Lakmal, R A S",Sri Lanka,3,14,0,73,0,0,0/18,,,5.21
+"Mendis, B M A J",Sri Lanka,3,9.1,0,63,0,0,0/11,,,6.87
+"Nurse, A R",West Indies,4,14,0,86,0,0,0/0,,,6.14
+"Karunaratne, F D M",Sri Lanka,7,1,0,7,0,0,0/0,,,7
+"Maxwell, G J",Australia,10,49,1,295,0,0,0/0,,,6.02
+"Munro, C",New Zealand,6,1,0,9,0,0,0/0,,,9
+"Shamsi, T",South Africa,2,18,0,116,0,0,0/54,,,6.44
+"Siriwardana, T A M",Sri Lanka,1,2,0,17,0,0,0/17,,,8.5
+"Hendricks, B E",South Africa,2,5,1,25,0,0,0/0,,,5
+"Sodhi, I S",New Zealand,1,6,1,35,0,0,0/35,,,5.83
+"Jadhav, K M",India,6,6,0,34,0,0,0/0,,,5.67
